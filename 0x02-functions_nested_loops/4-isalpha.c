@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _islower - Short description, single line
+ * _isalpha - return 1 if c is a letter,lowercase or uppercase
  * @c: contains value to be compared
  *
  * Return: Always 0.
