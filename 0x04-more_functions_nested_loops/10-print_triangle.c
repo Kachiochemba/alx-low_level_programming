@@ -1,7 +1,8 @@
 #include "main.h"
 
-/*
+/**
  * print_triangle - prints triangle
+ *
  * @size: print size
  *
  * Return: Always 0.
